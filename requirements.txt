@@ -1,0 +1,11 @@
+langgraph
+langchain
+langchain-openai
+python-dotenv
+gradio
+psycopg2-binary
+langsmith
+openai
+selenium
+langchain-community
+youtube_search
