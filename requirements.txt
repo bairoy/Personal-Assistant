@@ -9,3 +9,9 @@ openai
 selenium
 langchain-community
 youtube_search
+google-api-python-client
+webdriver-manager
+selenium
+youtube-search-python
+faiss-cpu
+sentence-transformers

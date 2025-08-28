@@ -36,3 +36,12 @@ dist/
 .coverage
 htmlcov/
 .pytest_cache/
+
+# specific files
+tool3.py 
+tool2.py 
+tool.ipynb 
+checkvectordb.py 
+frontend.py 
+fronty.py 
+playlist.json
